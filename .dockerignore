@@ -1,0 +1,12 @@
+*
+!Dockerfile
+!Caddyfile
+!index.html
+!styles.css
+!solution.css
+!site.js
+!scroll-motion.js
+!assets/
+!assets/**
+!solutions/
+!solutions/**
